@@ -433,11 +433,13 @@ Current:
 > "Many teams prioritize badly by focusing on features instead of outcomes."
 
 Suggested:
-> "I've watched teams ship 14 features in a quarter yet move none of their key metrics. They prioritized activity over progress."
+> "[A real case you can name or cite: how many features a team shipped in a quarter, and which key metrics did not move.] They prioritized activity over progress."
+
+Use first-person experience only if the author actually had it; otherwise cite a documented case.
 
 ### Add Data
 The third mistake would benefit from evidence:
-> "[Add citation]: Studies show teams without regular user contact are 3x more likely to build unused features [needs source]"
+> "[Add citation]: Studies show teams without regular user contact are [X times] more likely to build unused features [needs source]"
 
 ### Flow Improvement
 Consider reordering: Mistake 3 → Mistake 2 → Mistake 1
